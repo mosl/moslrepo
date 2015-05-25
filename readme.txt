@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Hello world 123
 Creating a new branch is quick and simple.
 bug fixed 1
+bug fixed test
+
