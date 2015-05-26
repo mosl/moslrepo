@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 bug fixed 1 2
 bug fixed test
 happy birthday to you
+Thanks you!
